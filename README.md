@@ -6,7 +6,7 @@ In semantic segmentation, each object is painted with tiny pixels that make up a
 Just finished generating semantic segmentation videos for the first time, but I will improve on the training of the dataset.
 
 I generated semantic segmentation images in segmented_imgs directory.  They look like paintings from a postcard.
-Notice the road has been classified in LomardSegmentedImg4.JPG and LomardSegmentedImg5.JPG.
+Notice the road has been classified in LomardSegmentedImg11.JPG, LomardSegmentedImg12.JPG, LomardSegmentedImg13.JPG, LomardSegmentedImg14.JPG, LomardSegmentedImg4.JPG, and LomardSegmentedImg5.JPG.
 
 Here are the youtube links:
 https://youtu.be/8KuIyKnmlqk
